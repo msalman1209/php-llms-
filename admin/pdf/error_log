@@ -1,0 +1,24 @@
+[13-Aug-2022 13:12:57 America/New_York] PHP Fatal error:  Uncaught Exception: FPDF error: Unsupported image type: /admin/insert/ in /home/aaztviwh/tsf-academy.website/admin/pdf/fpdf.php:271
+Stack trace:
+#0 /home/aaztviwh/tsf-academy.website/admin/pdf/fpdf.php(884): FPDF->Error()
+#1 /home/aaztviwh/tsf-academy.website/admin/pdf/generate_pdf.php(42): FPDF->Image()
+#2 /home/aaztviwh/tsf-academy.website/admin/pdf/fpdf.php(334): PDF->Header()
+#3 /home/aaztviwh/tsf-academy.website/admin/pdf/generate_pdf.php(91): FPDF->AddPage()
+#4 {main}
+  thrown in /home/aaztviwh/tsf-academy.website/admin/pdf/fpdf.php on line 271
+[13-Aug-2022 13:13:03 America/New_York] PHP Fatal error:  Uncaught Exception: FPDF error: Unsupported image type: /admin/insert/ in /home/aaztviwh/tsf-academy.website/admin/pdf/fpdf.php:271
+Stack trace:
+#0 /home/aaztviwh/tsf-academy.website/admin/pdf/fpdf.php(884): FPDF->Error()
+#1 /home/aaztviwh/tsf-academy.website/admin/pdf/generate_pdf.php(42): FPDF->Image()
+#2 /home/aaztviwh/tsf-academy.website/admin/pdf/fpdf.php(334): PDF->Header()
+#3 /home/aaztviwh/tsf-academy.website/admin/pdf/generate_pdf.php(91): FPDF->AddPage()
+#4 {main}
+  thrown in /home/aaztviwh/tsf-academy.website/admin/pdf/fpdf.php on line 271
+[21-Aug-2022 11:50:52 America/New_York] PHP Fatal error:  Uncaught Exception: FPDF error: Unsupported image type: /admin/insert/ in /home/aaztviwh/tsf-academy.website/admin/pdf/fpdf.php:271
+Stack trace:
+#0 /home/aaztviwh/tsf-academy.website/admin/pdf/fpdf.php(884): FPDF->Error()
+#1 /home/aaztviwh/tsf-academy.website/admin/pdf/generate_pdf.php(42): FPDF->Image()
+#2 /home/aaztviwh/tsf-academy.website/admin/pdf/fpdf.php(334): PDF->Header()
+#3 /home/aaztviwh/tsf-academy.website/admin/pdf/generate_pdf.php(91): FPDF->AddPage()
+#4 {main}
+  thrown in /home/aaztviwh/tsf-academy.website/admin/pdf/fpdf.php on line 271

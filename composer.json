@@ -1,0 +1,16 @@
+{
+    "name": "mw951/tsfacademy",
+    "description": "salman/tsfacademy",
+    "autoload": {
+        "psr-4": {
+            "Mw951\\Tsfacademy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "msalman1209",
+            "email": "143896856+msalman1209@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}

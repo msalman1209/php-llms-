@@ -1,0 +1,11 @@
+[10-Sep-2022 03:15:41 America/New_York] PHP Fatal error:  Uncaught Exception: FPDF error: Unsupported image type: /insert/ in /home/aaztviwh/tsf-academy.website/admin/card/fpdf.php:271
+Stack trace:
+#0 /home/aaztviwh/tsf-academy.website/admin/card/fpdf.php(884): FPDF->Error()
+#1 /home/aaztviwh/tsf-academy.website/admin/card/generate_pdf.php(29): FPDF->Image()
+#2 /home/aaztviwh/tsf-academy.website/admin/card/fpdf.php(334): PDF->Header()
+#3 /home/aaztviwh/tsf-academy.website/admin/card/generate_pdf.php(290): FPDF->AddPage()
+#4 {main}
+  thrown in /home/aaztviwh/tsf-academy.website/admin/card/fpdf.php on line 271
+[01-Feb-2023 14:17:58 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'aaztviwh_tsf'@'localhost' (using password: YES) in /home/tsfaeaea/public_html/admin/card/connection.php on line 12
+[01-Feb-2023 14:18:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'aaztviwh_tsf'@'localhost' (using password: YES) in /home/tsfaeaea/public_html/admin/card/connection.php on line 12
+[01-Feb-2023 14:18:32 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'aaztviwh_tsf'@'localhost' (using password: YES) in /home/tsfaeaea/public_html/admin/card/connection.php on line 12
